@@ -1,0 +1,67 @@
+
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    vertical-align:top;
+
+  }
+  
+  .teamname {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .song {
+    color: black;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+  }
+  .song_error {
+    color: black;
+    background-color: red;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+  }
+  .song_warning {
+    color: black;
+    background-color: orange;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+  }
+
+
+  .song > input {
+    width: 100%;
+  }
+
+  .position {
+    /*background-color: tomato;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+    font-weight: bold;
+  }
+  .personname {
+    /*background-color: rgb(83, 71, 255);*/
+    color: black;
+    text-indent: 10px;
+    margin-left: 1rem;
+  }
+  .plandate {
+    /*background-color: tomato;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+  }
+  .seriestitle {
+    /*background-color: rgb(83, 71, 255);*/
+    color: black;
+    text-indent: 10px;
+    margin-left: 1rem;
+  }
+
+  td::nth(1), th::nth(1) {
+    width:10%;
+  }
+  
