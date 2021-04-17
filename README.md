@@ -22,5 +22,5 @@ Overview of who has responsibility when;
 ## Semester planning of services
 - We are planning a 6 month semester ahead, and to make the generation of services easier, this is a tool to create many plans automaticly
 
-
-## To my defence I haven't beein programming since university 20 years ago, so I picked up the art a year ago, so please beer over with some of the quality of the code. It is getting better :-) But the code is badly documented, so you need to know your PHP to keep up with whats happening.
+## disclaimer
+In my defence I haven't beein programming since university 20 years ago, so I picked up the art a year ago, so please beer over with some of the quality of the code. It is getting better :-) But the code is badly documented, so you need to know your PHP to keep up with whats happening.
