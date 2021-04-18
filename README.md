@@ -1,4 +1,4 @@
-# Planning Center Services - custom reports
+# Planning Center Services - custom PHP reports
 
 We are using Planning Center sevices at our church her in Sandnes, Norway. To ease our work around administration I have created some tools and reports that we are using.
 
